@@ -3,15 +3,15 @@ List of the best LeetCode questions that teach you core concepts and techniques 
 
 Array
 -----
-- [ ] Two Sum - https://leetcode.com/problems/two-sum/
+- [x] Two Sum - https://leetcode.com/problems/two-sum/
 
-- [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-- [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+- [x] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 
-- [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- [x] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 
-- [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+- [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 
