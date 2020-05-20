@@ -50,9 +50,8 @@ Graph
 
 - [ ] Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
 
-- [ ] Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
-
-- [ ] Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+- [x] Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
+- [x] Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 
 Interval
 --------
