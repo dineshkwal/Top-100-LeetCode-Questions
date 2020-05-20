@@ -42,9 +42,8 @@ Dynamic Programming
 
 Graph
 -----
-- [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
-
-- [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
+- [x] Clone Graph - https://leetcode.com/problems/clone-graph/
+- [x] Course Schedule - https://leetcode.com/problems/course-schedule/
 
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 
