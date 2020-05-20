@@ -28,16 +28,15 @@ Dynamic Programming
 -------------------
 - [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [x] Coin Change - https://leetcode.com/problems/coin-change/
-- [X] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
-- [X] Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
-
-- [ ] Word Break Problem - https://leetcode.com/problems/word-break/
+- [x] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
+- [x] Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
+- [x] Word Break Problem - https://leetcode.com/problems/word-break/
 
 - [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
 
-- [ ] House Robber - https://leetcode.com/problems/house-robber/
+- [x] House Robber - https://leetcode.com/problems/house-robber/
 
-- [ ] House Robber II - https://leetcode.com/problems/house-robber-ii/
+- [x] House Robber II - https://leetcode.com/problems/house-robber-ii/
 
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
 
