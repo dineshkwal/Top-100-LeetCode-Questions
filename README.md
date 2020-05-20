@@ -35,13 +35,9 @@ Dynamic Programming
 - [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
 
 - [x] House Robber - https://leetcode.com/problems/house-robber/
-
 - [x] House Robber II - https://leetcode.com/problems/house-robber-ii/
-
-- [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
-
+- [x] Decode Ways - https://leetcode.com/problems/decode-ways/
 - [x] Unique Paths - https://leetcode.com/problems/unique-paths/
-
 - [x] Jump Game - https://leetcode.com/problems/jump-game/
 
 Graph
