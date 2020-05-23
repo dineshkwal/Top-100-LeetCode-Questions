@@ -126,13 +126,10 @@ Tree
 - [x] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - [x] Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 - [x] Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
-
-- [ ] Word Search II - https://leetcode.com/problems/word-search-ii/
+- [x] Word Search II - https://leetcode.com/problems/word-search-ii/
 
 Heap
 ----
 - [x] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-
 - [x] Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
-
 - [x] Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
